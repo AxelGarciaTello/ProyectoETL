@@ -1,6 +1,5 @@
 package Dato;
 
-
 public class Contaminante {
     private int id,
                 anio,

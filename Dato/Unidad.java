@@ -1,6 +1,5 @@
 package Dato;
 
-
 public class Unidad {
     private int id;
     private String clave,

@@ -1,6 +1,5 @@
 package Dato;
 
-
 public class Parametro {
     private int id;
     private String cve,

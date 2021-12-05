@@ -1,6 +1,5 @@
 package Dato;
 
-
 public class Estacion {
     private String cve,
                    nombre,

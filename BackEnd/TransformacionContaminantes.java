@@ -101,7 +101,7 @@ public class TransformacionContaminantes {
                                 estacion+","+
                                 parametro+","+
                                 valor+","+
-                                unidad+","
+                                unidad
                         );
                     }
                 }
